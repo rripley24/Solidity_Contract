@@ -1,4 +1,4 @@
-# Smart Contract in Remix
+# Smart Contracts in Remix
 
 ### Rich Ripley 11-19-20
 
